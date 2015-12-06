@@ -71,7 +71,7 @@ color:#D3D3D3!important;
   clear: both;
   margin: 0 auto;
   width:27%;
-  text-align: center;
+  text-align: -webkit-left;
   background: #f4f4f4;
     padding: 2em;
 	border-radius: 4px;
